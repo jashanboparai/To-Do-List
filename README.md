@@ -1,2 +1,5 @@
 # To-Do-List
-This open-source project is for making a great To-do list app
+
+Current version 1.0.1
+
+Live URL of the App jashanpreet-todo.herokuapp.com
